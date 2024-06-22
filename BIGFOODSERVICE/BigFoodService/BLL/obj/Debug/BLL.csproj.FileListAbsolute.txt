@@ -1,0 +1,148 @@
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\Proyecto Escritorio\BIGFOODSERVICE\BLL\bin\Debug\BLL.dll
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\Proyecto Escritorio\BIGFOODSERVICE\BLL\bin\Debug\BLL.pdb
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\Proyecto Escritorio\BIGFOODSERVICE\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\Proyecto Escritorio\BIGFOODSERVICE\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\Proyecto Escritorio\BIGFOODSERVICE\BLL\obj\Debug\BLL.dll
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\Proyecto Escritorio\BIGFOODSERVICE\BLL\obj\Debug\BLL.pdb
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\BIGFOODSERVICE\BIGFOODSERVICE\BLL\bin\Debug\BLL.dll
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\BIGFOODSERVICE\BIGFOODSERVICE\BLL\bin\Debug\BLL.pdb
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\BIGFOODSERVICE\BIGFOODSERVICE\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\BIGFOODSERVICE\BIGFOODSERVICE\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\BIGFOODSERVICE\BIGFOODSERVICE\BLL\obj\Debug\BLL.dll
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\BIGFOODSERVICE\BIGFOODSERVICE\BLL\obj\Debug\BLL.pdb
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\BIGFOODSERVICE\BIGFOODSERVICE\BLL\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\BIGFOODSERVICE\BIGFOODSERVICE\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\BLL\bin\Debug\BLL.dll
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\BLL\bin\Debug\BLL.pdb
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\BLL\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\BLL\obj\Debug\BLL.dll
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\BLL\obj\Debug\BLL.pdb
+C:\Users\jhonn\OneDrive\Escritorio\Basura\Proyecto Escritoriokn\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\BLL\bin\Debug\BLL.dll
+C:\Users\jhonn\OneDrive\Escritorio\Basura\Proyecto Escritoriokn\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\BLL\bin\Debug\BLL.pdb
+C:\Users\jhonn\OneDrive\Escritorio\Basura\Proyecto Escritoriokn\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\BLL\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\jhonn\OneDrive\Escritorio\Basura\Proyecto Escritoriokn\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\jhonn\OneDrive\Escritorio\Basura\Proyecto Escritoriokn\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\jhonn\OneDrive\Escritorio\Basura\Proyecto Escritoriokn\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\jhonn\OneDrive\Escritorio\Basura\Proyecto Escritoriokn\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\BLL\obj\Debug\BLL.dll
+C:\Users\jhonn\OneDrive\Escritorio\Basura\Proyecto Escritoriokn\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\BLL\obj\Debug\BLL.pdb
+C:\Users\jhonn\OneDrive\Escritorio\proyecto\BIGFOODSERVICE\BIGFOODSERVICE\BLL\bin\Debug\BLL.dll
+C:\Users\jhonn\OneDrive\Escritorio\proyecto\BIGFOODSERVICE\BIGFOODSERVICE\BLL\bin\Debug\BLL.pdb
+C:\Users\jhonn\OneDrive\Escritorio\proyecto\BIGFOODSERVICE\BIGFOODSERVICE\BLL\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\jhonn\OneDrive\Escritorio\proyecto\BIGFOODSERVICE\BIGFOODSERVICE\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\jhonn\OneDrive\Escritorio\proyecto\BIGFOODSERVICE\BIGFOODSERVICE\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\jhonn\OneDrive\Escritorio\proyecto\BIGFOODSERVICE\BIGFOODSERVICE\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\jhonn\OneDrive\Escritorio\proyecto\BIGFOODSERVICE\BIGFOODSERVICE\BLL\obj\Debug\BLL.dll
+C:\Users\jhonn\OneDrive\Escritorio\proyecto\BIGFOODSERVICE\BIGFOODSERVICE\BLL\obj\Debug\BLL.pdb
+C:\Users\bisma\Downloads\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\BLL.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\BLL.pdb
+C:\Users\bisma\Downloads\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICE\BigFoodService\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\bisma\Downloads\BIGFOODSERVICE\BigFoodService\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\bisma\Downloads\BIGFOODSERVICE\BigFoodService\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\bisma\Downloads\BIGFOODSERVICE\BigFoodService\BLL\obj\Debug\BLL.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICE\BigFoodService\BLL\obj\Debug\BLL.pdb
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\BLL.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\BLL.pdb
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\obj\Debug\BLL.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\obj\Debug\BLL.pdb
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\BLL.dll.config
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\itext.barcodes.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\itext.commons.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\itext.forms.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\itext.io.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\itext.kernel.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\itext.layout.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\itext.pdfa.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\itext.pdfua.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\itext.sign.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\itext.styledxmlparser.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\itext.svg.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\System.Buffers.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\System.Memory.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\System.ValueTuple.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\itext.barcodes.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\itext.commons.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\itext.forms.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\itext.io.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\itext.kernel.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\itext.layout.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\itext.pdfa.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\itext.pdfua.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\itext.sign.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\itext.styledxmlparser.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\itext.svg.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\System.Buffers.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\System.Memory.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\System.ValueTuple.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\MailKit.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\MimeKit.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\PdfSharp.Charting.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\PdfSharp.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\PdfSharp.Quality.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\PdfSharp.Snippets.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\PdfSharp.System.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\PdfSharp.WPFonts.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\System.Formats.Asn1.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\MailKit.pdb
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\MailKit.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\MailKit.dll.config
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\MimeKit.pdb
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\MimeKit.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\MimeKit.dll.config
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\PdfSharp.pdb
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\PdfSharp.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\PdfSharp.Charting.pdb
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\PdfSharp.Charting.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\PdfSharp.Quality.pdb
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\PdfSharp.Quality.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\PdfSharp.Snippets.pdb
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\PdfSharp.System.pdb
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\PdfSharp.System.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\PdfSharp.WPFonts.pdb
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\PdfSharp.WPFonts.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\System.Formats.Asn1.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\RestSharp.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\System.Text.Json.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\RestSharp.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BLL\bin\Debug\System.Text.Json.xml

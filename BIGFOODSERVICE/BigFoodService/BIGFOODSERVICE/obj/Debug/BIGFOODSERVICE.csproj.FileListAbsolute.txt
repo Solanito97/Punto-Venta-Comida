@@ -1,0 +1,554 @@
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\bin\Debug\BIGFOODSERVICE.exe.config
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\bin\Debug\BIGFOODSERVICE.exe
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\bin\Debug\BIGFOODSERVICE.pdb
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.csproj.AssemblyReference.cache
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.csproj.SuggestedBindingRedirects.cache
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.Form1.resources
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.Properties.Resources.resources
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.csproj.GenerateResource.cache
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.csproj.CoreCompileInputs.cache
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.exe
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.pdb
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\bin\Debug\BLL.dll
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\bin\Debug\BLL.pdb
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.FrmLogin.resources
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.csproj.CopyComplete
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\bin\Debug\BIGFOODSERVICE.exe.config
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\bin\Debug\BIGFOODSERVICE.exe
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\bin\Debug\BIGFOODSERVICE.pdb
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\bin\Debug\BLL.dll
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\bin\Debug\BLL.pdb
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.csproj.AssemblyReference.cache
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.csproj.SuggestedBindingRedirects.cache
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.FrmLogin.resources
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.Properties.Resources.resources
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.csproj.GenerateResource.cache
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.csproj.CoreCompileInputs.cache
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.csproj.CopyComplete
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.exe
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.pdb
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.FrmBuscarUsuarios.resources
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\bin\Debug\Newtonsoft.Json.dll
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\bin\Debug\Newtonsoft.Json.xml
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\bin\Debug\DAL.dll
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\bin\Debug\DAL.pdb
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.FrmPrincipal.resources
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.Frm_UI_Users.resources
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.csproj.AssemblyReference.cache
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.csproj.SuggestedBindingRedirects.cache
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.FrmBuscarClientes.resources
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.FrmPrincipal.resources
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.FrmBuscarUsuarios.resources
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.FrmLogin.resources
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.Frm_UI_Clientes.resources
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.Frm_UI_Users.resources
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.Properties.Resources.resources
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.csproj.GenerateResource.cache
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.csproj.CoreCompileInputs.cache
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.exe
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.pdb
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\bin\Debug\BIGFOODSERVICE.exe.config
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\bin\Debug\BIGFOODSERVICE.exe
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\bin\Debug\BIGFOODSERVICE.pdb
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\bin\Debug\BLL.dll
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\bin\Debug\DAL.dll
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\bin\Debug\Newtonsoft.Json.dll
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\bin\Debug\BLL.pdb
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\bin\Debug\DAL.pdb
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\bin\Debug\Newtonsoft.Json.xml
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.csproj.CopyComplete
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.FrmBuscarProductos.resources
+C:\Users\emori\OneDrive\Documentos\EMMANUEL\V Semestre\Lenguajes\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.Frm_UI_Productos.resources
+C:\Users\jhonn\OneDrive\Escritorio\Basura\Proyecto Escritoriokn\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\bin\Debug\BIGFOODSERVICE.exe.config
+C:\Users\jhonn\OneDrive\Escritorio\Basura\Proyecto Escritoriokn\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\bin\Debug\BIGFOODSERVICE.exe
+C:\Users\jhonn\OneDrive\Escritorio\Basura\Proyecto Escritoriokn\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\bin\Debug\BIGFOODSERVICE.pdb
+C:\Users\jhonn\OneDrive\Escritorio\Basura\Proyecto Escritoriokn\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\bin\Debug\BLL.dll
+C:\Users\jhonn\OneDrive\Escritorio\Basura\Proyecto Escritoriokn\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\bin\Debug\DAL.dll
+C:\Users\jhonn\OneDrive\Escritorio\Basura\Proyecto Escritoriokn\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jhonn\OneDrive\Escritorio\Basura\Proyecto Escritoriokn\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\bin\Debug\BLL.pdb
+C:\Users\jhonn\OneDrive\Escritorio\Basura\Proyecto Escritoriokn\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\bin\Debug\DAL.pdb
+C:\Users\jhonn\OneDrive\Escritorio\Basura\Proyecto Escritoriokn\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jhonn\OneDrive\Escritorio\Basura\Proyecto Escritoriokn\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.csproj.AssemblyReference.cache
+C:\Users\jhonn\OneDrive\Escritorio\Basura\Proyecto Escritoriokn\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.FrmBuscarClientes.resources
+C:\Users\jhonn\OneDrive\Escritorio\Basura\Proyecto Escritoriokn\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.FrmBuscarProductos.resources
+C:\Users\jhonn\OneDrive\Escritorio\Basura\Proyecto Escritoriokn\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.FrmPrincipal.resources
+C:\Users\jhonn\OneDrive\Escritorio\Basura\Proyecto Escritoriokn\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.FrmBuscarUsuarios.resources
+C:\Users\jhonn\OneDrive\Escritorio\Basura\Proyecto Escritoriokn\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.FrmLogin.resources
+C:\Users\jhonn\OneDrive\Escritorio\Basura\Proyecto Escritoriokn\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.Frm_UI_Clientes.resources
+C:\Users\jhonn\OneDrive\Escritorio\Basura\Proyecto Escritoriokn\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.Frm_UI_Productos.resources
+C:\Users\jhonn\OneDrive\Escritorio\Basura\Proyecto Escritoriokn\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.Frm_UI_Users.resources
+C:\Users\jhonn\OneDrive\Escritorio\Basura\Proyecto Escritoriokn\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.Properties.Resources.resources
+C:\Users\jhonn\OneDrive\Escritorio\Basura\Proyecto Escritoriokn\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.csproj.GenerateResource.cache
+C:\Users\jhonn\OneDrive\Escritorio\Basura\Proyecto Escritoriokn\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.csproj.CoreCompileInputs.cache
+C:\Users\jhonn\OneDrive\Escritorio\Basura\Proyecto Escritoriokn\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\obj\Debug\BIGFOODS.7CBBE0A0.Up2Date
+C:\Users\jhonn\OneDrive\Escritorio\Basura\Proyecto Escritoriokn\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.exe
+C:\Users\jhonn\OneDrive\Escritorio\Basura\Proyecto Escritoriokn\Proyecto Escritorio\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.pdb
+C:\Users\jhonn\OneDrive\Escritorio\proyecto\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.csproj.AssemblyReference.cache
+C:\Users\jhonn\OneDrive\Escritorio\proyecto\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.FrmBuscarClientes.resources
+C:\Users\jhonn\OneDrive\Escritorio\proyecto\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.FrmBuscarProductos.resources
+C:\Users\jhonn\OneDrive\Escritorio\proyecto\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.FrmPrincipal.resources
+C:\Users\jhonn\OneDrive\Escritorio\proyecto\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.FrmBuscarUsuarios.resources
+C:\Users\jhonn\OneDrive\Escritorio\proyecto\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.FrmLogin.resources
+C:\Users\jhonn\OneDrive\Escritorio\proyecto\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.Frm_UI_Clientes.resources
+C:\Users\jhonn\OneDrive\Escritorio\proyecto\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.Frm_UI_Productos.resources
+C:\Users\jhonn\OneDrive\Escritorio\proyecto\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.Frm_UI_Users.resources
+C:\Users\jhonn\OneDrive\Escritorio\proyecto\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.Properties.Resources.resources
+C:\Users\jhonn\OneDrive\Escritorio\proyecto\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.csproj.GenerateResource.cache
+C:\Users\jhonn\OneDrive\Escritorio\proyecto\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.csproj.CoreCompileInputs.cache
+C:\Users\jhonn\OneDrive\Escritorio\proyecto\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\bin\Debug\BIGFOODSERVICE.exe.config
+C:\Users\jhonn\OneDrive\Escritorio\proyecto\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\bin\Debug\BIGFOODSERVICE.exe
+C:\Users\jhonn\OneDrive\Escritorio\proyecto\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\bin\Debug\BIGFOODSERVICE.pdb
+C:\Users\jhonn\OneDrive\Escritorio\proyecto\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\bin\Debug\BLL.dll
+C:\Users\jhonn\OneDrive\Escritorio\proyecto\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\bin\Debug\DAL.dll
+C:\Users\jhonn\OneDrive\Escritorio\proyecto\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jhonn\OneDrive\Escritorio\proyecto\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\bin\Debug\BLL.pdb
+C:\Users\jhonn\OneDrive\Escritorio\proyecto\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\bin\Debug\DAL.pdb
+C:\Users\jhonn\OneDrive\Escritorio\proyecto\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jhonn\OneDrive\Escritorio\proyecto\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\obj\Debug\BIGFOODS.7CBBE0A0.Up2Date
+C:\Users\jhonn\OneDrive\Escritorio\proyecto\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.exe
+C:\Users\jhonn\OneDrive\Escritorio\proyecto\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.pdb
+C:\Users\jhonn\OneDrive\Escritorio\proyecto\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.FrmBitacora.resources
+C:\Users\jhonn\OneDrive\Escritorio\proyecto\BIGFOODSERVICE\BIGFOODSERVICE\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.Frm_UI_Bitacora.resources
+C:\Users\bjsol\Downloads\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\BIGFOODSERVICE.exe.config
+C:\Users\bjsol\Downloads\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\BIGFOODSERVICE.exe
+C:\Users\bjsol\Downloads\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\BIGFOODSERVICE.pdb
+C:\Users\bjsol\Downloads\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\BLL.dll
+C:\Users\bjsol\Downloads\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\DAL.dll
+C:\Users\bjsol\Downloads\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bjsol\Downloads\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\BLL.pdb
+C:\Users\bjsol\Downloads\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\DAL.pdb
+C:\Users\bjsol\Downloads\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bjsol\Downloads\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.csproj.AssemblyReference.cache
+C:\Users\bjsol\Downloads\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.FrmBitacora.resources
+C:\Users\bjsol\Downloads\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.FrmBuscarClientes.resources
+C:\Users\bjsol\Downloads\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.FrmBuscarProductos.resources
+C:\Users\bjsol\Downloads\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.FrmPrincipal.resources
+C:\Users\bjsol\Downloads\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.FrmBuscarUsuarios.resources
+C:\Users\bjsol\Downloads\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.FrmLogin.resources
+C:\Users\bjsol\Downloads\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.Frm_UI_Bitacora.resources
+C:\Users\bjsol\Downloads\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.Frm_UI_Clientes.resources
+C:\Users\bjsol\Downloads\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.Frm_UI_Productos.resources
+C:\Users\bjsol\Downloads\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.Frm_UI_Users.resources
+C:\Users\bjsol\Downloads\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.Properties.Resources.resources
+C:\Users\bjsol\Downloads\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.csproj.GenerateResource.cache
+C:\Users\bjsol\Downloads\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.csproj.CoreCompileInputs.cache
+C:\Users\bjsol\Downloads\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODS.7CBBE0A0.Up2Date
+C:\Users\bjsol\Downloads\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.exe
+C:\Users\bjsol\Downloads\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.pdb
+C:\Users\bisma\Downloads\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\BIGFOODSERVICE.exe.config
+C:\Users\bisma\Downloads\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\BIGFOODSERVICE.exe
+C:\Users\bisma\Downloads\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\BIGFOODSERVICE.pdb
+C:\Users\bisma\Downloads\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\BLL.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\DAL.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\BLL.pdb
+C:\Users\bisma\Downloads\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\DAL.pdb
+C:\Users\bisma\Downloads\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.csproj.AssemblyReference.cache
+C:\Users\bisma\Downloads\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.FrmBitacora.resources
+C:\Users\bisma\Downloads\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.FrmBuscarClientes.resources
+C:\Users\bisma\Downloads\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.FrmBuscarProductos.resources
+C:\Users\bisma\Downloads\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.FrmPrincipal.resources
+C:\Users\bisma\Downloads\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.FrmBuscarUsuarios.resources
+C:\Users\bisma\Downloads\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.FrmLogin.resources
+C:\Users\bisma\Downloads\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.Frm_UI_Bitacora.resources
+C:\Users\bisma\Downloads\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.Frm_UI_Clientes.resources
+C:\Users\bisma\Downloads\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.Frm_UI_Productos.resources
+C:\Users\bisma\Downloads\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.Frm_UI_Users.resources
+C:\Users\bisma\Downloads\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.Properties.Resources.resources
+C:\Users\bisma\Downloads\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.csproj.GenerateResource.cache
+C:\Users\bisma\Downloads\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.csproj.CoreCompileInputs.cache
+C:\Users\bisma\Downloads\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODS.7CBBE0A0.Up2Date
+C:\Users\bisma\Downloads\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.exe
+C:\Users\bisma\Downloads\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.pdb
+C:\Users\bisma\Downloads\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.FrmFacturas.resources
+C:\Users\carlo\OneDrive\Escritorio\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\BIGFOODSERVICE.exe.config
+C:\Users\carlo\OneDrive\Escritorio\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\BIGFOODSERVICE.exe
+C:\Users\carlo\OneDrive\Escritorio\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\BIGFOODSERVICE.pdb
+C:\Users\carlo\OneDrive\Escritorio\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\BLL.dll
+C:\Users\carlo\OneDrive\Escritorio\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\DAL.dll
+C:\Users\carlo\OneDrive\Escritorio\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\Newtonsoft.Json.dll
+C:\Users\carlo\OneDrive\Escritorio\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\BLL.pdb
+C:\Users\carlo\OneDrive\Escritorio\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\DAL.pdb
+C:\Users\carlo\OneDrive\Escritorio\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\Newtonsoft.Json.xml
+C:\Users\carlo\OneDrive\Escritorio\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Escritorio\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.FrmBitacora.resources
+C:\Users\carlo\OneDrive\Escritorio\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.FrmBuscarClientes.resources
+C:\Users\carlo\OneDrive\Escritorio\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.FrmBuscarProductos.resources
+C:\Users\carlo\OneDrive\Escritorio\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.FrmFacturas.resources
+C:\Users\carlo\OneDrive\Escritorio\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.FrmPrincipal.resources
+C:\Users\carlo\OneDrive\Escritorio\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.FrmBuscarUsuarios.resources
+C:\Users\carlo\OneDrive\Escritorio\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.FrmLogin.resources
+C:\Users\carlo\OneDrive\Escritorio\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.Frm_UI_Bitacora.resources
+C:\Users\carlo\OneDrive\Escritorio\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.Frm_UI_Clientes.resources
+C:\Users\carlo\OneDrive\Escritorio\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.Frm_UI_Productos.resources
+C:\Users\carlo\OneDrive\Escritorio\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.Frm_UI_Users.resources
+C:\Users\carlo\OneDrive\Escritorio\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.Properties.Resources.resources
+C:\Users\carlo\OneDrive\Escritorio\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.csproj.GenerateResource.cache
+C:\Users\carlo\OneDrive\Escritorio\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Escritorio\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODS.7CBBE0A0.Up2Date
+C:\Users\carlo\OneDrive\Escritorio\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.exe
+C:\Users\carlo\OneDrive\Escritorio\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.pdb
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\BIGFOODSERVICE.exe.config
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\BIGFOODSERVICE.exe
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\BIGFOODSERVICE.pdb
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\BLL.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\DAL.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\BLL.pdb
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\DAL.pdb
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.csproj.AssemblyReference.cache
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.FrmBitacora.resources
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.FrmBuscarClientes.resources
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.FrmBuscarProductos.resources
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.FrmFacturas.resources
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.FrmPrincipal.resources
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.FrmBuscarUsuarios.resources
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.FrmLogin.resources
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.Frm_UI_Bitacora.resources
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.Frm_UI_Clientes.resources
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.Frm_UI_Productos.resources
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.Frm_UI_Users.resources
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.Properties.Resources.resources
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.csproj.GenerateResource.cache
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.csproj.CoreCompileInputs.cache
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODS.7CBBE0A0.Up2Date
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.exe
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.pdb
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.barcodes.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.commons.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.forms.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.io.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.kernel.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.layout.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.pdfa.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.pdfua.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.sign.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.styledxmlparser.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.svg.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\System.Buffers.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\System.Memory.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\System.ValueTuple.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\BLL.dll.config
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\DAL.dll.config
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.barcodes.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.commons.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.forms.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.io.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.kernel.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.layout.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.pdfa.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.pdfua.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.sign.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.styledxmlparser.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.svg.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\System.Buffers.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\System.Memory.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\System.ValueTuple.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\MailKit.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\MimeKit.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\PdfSharp.Charting.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\PdfSharp.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\PdfSharp.Quality.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\PdfSharp.Snippets.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\PdfSharp.System.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\PdfSharp.WPFonts.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\System.Formats.Asn1.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\MailKit.pdb
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\MailKit.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\MailKit.dll.config
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\MimeKit.pdb
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\MimeKit.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\MimeKit.dll.config
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\PdfSharp.pdb
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\PdfSharp.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\PdfSharp.Charting.pdb
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\PdfSharp.Charting.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\PdfSharp.Quality.pdb
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\PdfSharp.Quality.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\PdfSharp.Snippets.pdb
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\PdfSharp.System.pdb
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\PdfSharp.System.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\PdfSharp.WPFonts.pdb
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\PdfSharp.WPFonts.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\System.Formats.Asn1.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.Frm.resources
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\RestSharp.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\System.Text.Json.dll
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\RestSharp.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\bisma\Downloads\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\System.Text.Json.xml
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\BIGFOODSERVICE.exe.config
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\BIGFOODSERVICE.exe
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\BIGFOODSERVICE.pdb
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\BLL.dll
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\DAL.dll
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.barcodes.dll
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.commons.dll
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.forms.dll
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.io.dll
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.kernel.dll
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.layout.dll
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.pdfa.dll
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.pdfua.dll
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.sign.dll
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.styledxmlparser.dll
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.svg.dll
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\MailKit.dll
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\MimeKit.dll
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\PdfSharp.Charting.dll
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\PdfSharp.dll
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\PdfSharp.Quality.dll
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\PdfSharp.Snippets.dll
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\PdfSharp.System.dll
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\PdfSharp.WPFonts.dll
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\RestSharp.dll
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\System.Buffers.dll
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\System.Formats.Asn1.dll
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\System.Memory.dll
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\System.Text.Json.dll
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\System.ValueTuple.dll
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\BLL.pdb
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\BLL.dll.config
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\DAL.pdb
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\DAL.dll.config
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.barcodes.xml
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.commons.xml
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.forms.xml
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.io.xml
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.kernel.xml
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.layout.xml
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.pdfa.xml
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.pdfua.xml
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.sign.xml
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.styledxmlparser.xml
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.svg.xml
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\MailKit.pdb
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\MailKit.xml
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\MailKit.dll.config
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\MimeKit.pdb
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\MimeKit.xml
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\MimeKit.dll.config
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\PdfSharp.pdb
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\PdfSharp.xml
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\PdfSharp.Charting.pdb
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\PdfSharp.Charting.xml
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\PdfSharp.Quality.pdb
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\PdfSharp.Quality.xml
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\PdfSharp.Snippets.pdb
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\PdfSharp.System.pdb
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\PdfSharp.System.xml
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\PdfSharp.WPFonts.pdb
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\PdfSharp.WPFonts.xml
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\RestSharp.xml
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\System.Buffers.xml
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\System.Formats.Asn1.xml
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\System.Memory.xml
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\System.Text.Json.xml
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\System.ValueTuple.xml
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.csproj.AssemblyReference.cache
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.Frm.resources
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.FrmBitacora.resources
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.FrmBuscarClientes.resources
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.FrmBuscarProductos.resources
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.FrmFacturas.resources
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.FrmPrincipal.resources
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.FrmBuscarUsuarios.resources
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.FrmLogin.resources
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.Frm_UI_Bitacora.resources
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.Frm_UI_Clientes.resources
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.Frm_UI_Productos.resources
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.Frm_UI_Users.resources
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.Properties.Resources.resources
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.csproj.GenerateResource.cache
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.csproj.CoreCompileInputs.cache
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODS.7CBBE0A0.Up2Date
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.exe
+C:\Users\jhonn\OneDrive\Escritorio\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.pdb
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\BIGFOODSERVICE.exe.config
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\BIGFOODSERVICE.exe
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\BIGFOODSERVICE.pdb
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\BLL.dll
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\DAL.dll
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.barcodes.dll
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.commons.dll
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.forms.dll
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.io.dll
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.kernel.dll
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.layout.dll
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.pdfa.dll
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.pdfua.dll
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.sign.dll
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.styledxmlparser.dll
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.svg.dll
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\MailKit.dll
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\MimeKit.dll
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\PdfSharp.Charting.dll
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\PdfSharp.dll
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\PdfSharp.Quality.dll
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\PdfSharp.Snippets.dll
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\PdfSharp.System.dll
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\PdfSharp.WPFonts.dll
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\RestSharp.dll
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\System.Buffers.dll
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\System.Formats.Asn1.dll
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\System.Memory.dll
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\System.Text.Json.dll
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\System.ValueTuple.dll
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\BLL.pdb
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\BLL.dll.config
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\DAL.pdb
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\DAL.dll.config
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.barcodes.xml
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.commons.xml
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.forms.xml
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.io.xml
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.kernel.xml
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.layout.xml
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.pdfa.xml
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.pdfua.xml
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.sign.xml
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.styledxmlparser.xml
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\itext.svg.xml
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\MailKit.pdb
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\MailKit.xml
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\MailKit.dll.config
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\MimeKit.pdb
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\MimeKit.xml
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\MimeKit.dll.config
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\PdfSharp.pdb
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\PdfSharp.xml
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\PdfSharp.Charting.pdb
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\PdfSharp.Charting.xml
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\PdfSharp.Quality.pdb
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\PdfSharp.Quality.xml
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\PdfSharp.Snippets.pdb
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\PdfSharp.System.pdb
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\PdfSharp.System.xml
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\PdfSharp.WPFonts.pdb
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\PdfSharp.WPFonts.xml
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\RestSharp.xml
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\System.Buffers.xml
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\System.Formats.Asn1.xml
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\System.Memory.xml
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\System.Text.Json.xml
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\System.ValueTuple.xml
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.csproj.AssemblyReference.cache
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.Frm.resources
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.FrmBitacora.resources
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.FrmBuscarClientes.resources
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.FrmBuscarProductos.resources
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.FrmFacturas.resources
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.FrmPrincipal.resources
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.FrmBuscarUsuarios.resources
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.FrmLogin.resources
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.Frm_UI_Bitacora.resources
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.Frm_UI_Clientes.resources
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.Frm_UI_Productos.resources
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.Frm_UI_Users.resources
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.Properties.Resources.resources
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.csproj.GenerateResource.cache
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.csproj.CoreCompileInputs.cache
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODS.7CBBE0A0.Up2Date
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.exe
+C:\Users\jhonn\OneDrive\Escritorio\Games\BIGFOODSERVICe (1)\BIGFOODSERVICE\BigFoodService\BIGFOODSERVICE\obj\Debug\BIGFOODSERVICE.pdb

@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Games\\BIGFOODSERVICe (1)\\BIGFOODSERVICE\\BigFoodService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDA01C5D-7E44-4371-9A28-ED4C83BF39C8}|BIGFOODSERVICE\\BIGFOODSERVICE.csproj|c:\\users\\jhonn\\onedrive\\escritorio\\games\\bigfoodservice (1)\\bigfoodservice\\bigfoodservice\\bigfoodservice\\frmbuscarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BDA01C5D-7E44-4371-9A28-ED4C83BF39C8}|BIGFOODSERVICE\\BIGFOODSERVICE.csproj|solutionrelative:bigfoodservice\\frmbuscarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDA01C5D-7E44-4371-9A28-ED4C83BF39C8}|BIGFOODSERVICE\\BIGFOODSERVICE.csproj|c:\\users\\jhonn\\onedrive\\escritorio\\games\\bigfoodservice (1)\\bigfoodservice\\bigfoodservice\\bigfoodservice\\frm_ui_clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BDA01C5D-7E44-4371-9A28-ED4C83BF39C8}|BIGFOODSERVICE\\BIGFOODSERVICE.csproj|solutionrelative:bigfoodservice\\frm_ui_clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDA01C5D-7E44-4371-9A28-ED4C83BF39C8}|BIGFOODSERVICE\\BIGFOODSERVICE.csproj|c:\\users\\jhonn\\onedrive\\escritorio\\games\\bigfoodservice (1)\\bigfoodservice\\bigfoodservice\\bigfoodservice\\frmbuscarclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BDA01C5D-7E44-4371-9A28-ED4C83BF39C8}|BIGFOODSERVICE\\BIGFOODSERVICE.csproj|solutionrelative:bigfoodservice\\frmbuscarclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmBuscarClientes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Games\\BIGFOODSERVICe (1)\\BIGFOODSERVICE\\BigFoodService\\BIGFOODSERVICE\\FrmBuscarClientes.cs",
+              "RelativeDocumentMoniker": "BIGFOODSERVICE\\FrmBuscarClientes.cs",
+              "ToolTip": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Games\\BIGFOODSERVICe (1)\\BIGFOODSERVICE\\BigFoodService\\BIGFOODSERVICE\\FrmBuscarClientes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "BIGFOODSERVICE\\FrmBuscarClientes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T19:47:31.282Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Frm_UI_Clientes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Games\\BIGFOODSERVICe (1)\\BIGFOODSERVICE\\BigFoodService\\BIGFOODSERVICE\\Frm_UI_Clientes.cs",
+              "RelativeDocumentMoniker": "BIGFOODSERVICE\\Frm_UI_Clientes.cs",
+              "ToolTip": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Games\\BIGFOODSERVICe (1)\\BIGFOODSERVICE\\BigFoodService\\BIGFOODSERVICE\\Frm_UI_Clientes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "BIGFOODSERVICE\\Frm_UI_Clientes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T19:47:28.31Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmBuscarProductos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Games\\BIGFOODSERVICe (1)\\BIGFOODSERVICE\\BigFoodService\\BIGFOODSERVICE\\FrmBuscarProductos.cs",
+              "RelativeDocumentMoniker": "BIGFOODSERVICE\\FrmBuscarProductos.cs",
+              "ToolTip": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Games\\BIGFOODSERVICe (1)\\BIGFOODSERVICE\\BigFoodService\\BIGFOODSERVICE\\FrmBuscarProductos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "BIGFOODSERVICE\\FrmBuscarProductos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T19:47:10.896Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
